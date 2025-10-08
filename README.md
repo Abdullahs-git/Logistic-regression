@@ -43,6 +43,6 @@ Visualizations help interpret the decision boundary and assess model performance
 **Muhammad Abdullah Butt**  
 IBM Certified — *Machine Learning with Python (V2)*  
 📍 Passionate about Data Science, AI, and Machine Learning  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+🔗 [LinkedIn]https://www.linkedin.com/in/muhammad-abdullahbutt/) 
 
 
